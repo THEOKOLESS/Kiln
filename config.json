@@ -1,0 +1,5 @@
+{
+    "database": "delegations.db",
+    "limit" : "100",
+    "all_data": false   
+}
